@@ -2,10 +2,8 @@
 
 <img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png" width="1200" height="280">
 
-This repository contains alx students group project to build a clone of the AirBnB website.i
-
----
-
+This repository contains alx students group project to build a clone of the AirBnB website.
+<br>
 <center> <h2>General Use</h2> </center>
 
 1. First clone this repository.
@@ -37,16 +35,16 @@ This repository contains alx students group project to build a clone of the AirB
 ##### Alternative Syntax
 Users are able to issue a number of console command using an alternative syntax:
 
-        Usage: <class_name>.<command>([<id>[name_arg value_arg]|[kwargs]])
-Advanced syntax is implemented for the following commands:
+	Usage: <class_name>.<command>([<id>[name_arg value_arg]|[kwargs]])
+Advanced syntax is implemented for the following commands: 
 
     * all - Shows all objects the program has access to, or all objects of a given class
 
-        * count - Return number of object instances by class
+	* count - Return number of object instances by class
 
     * show - Shows an object based on class and UUID
 
-        * destroy - Destroys an object based on class and UUID
+	* destroy - Destroys an object based on class and UUID
 
     * update - Updates existing attributes an object based on class name and UUID
 
